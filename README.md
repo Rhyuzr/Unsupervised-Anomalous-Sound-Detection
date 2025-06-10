@@ -84,9 +84,6 @@ python AML2_Unsupervised_Anomalous_Sound_Detection.py
 4. Push to the branch (`git push origin feature/new-feature`)
 5. Create a Pull Request
 
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## Acknowledgments
 
